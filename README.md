@@ -5,4 +5,6 @@ I planted an acorn in the summer. Surround with mulch.
 
 It has 4 leaves now!
 
-Snow lightly covers the leaves.
+Snow never covers the leaves.
+
+Leaves are falling all around.
