@@ -5,3 +5,4 @@ I planted an acorn in the summer.
 
 It has 4 leaves now!
 
+Snow covers that leaves.
