@@ -1,4 +1,4 @@
 # hello-world
 First repo
 
-I planted an acorn in the spring.
+I planted an acorn in the fall.
