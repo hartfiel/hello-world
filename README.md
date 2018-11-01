@@ -7,4 +7,4 @@ It has 4 leaves now!
 
 Snow never covers the leaves.
 
-
+Leaves are falling all around.
